@@ -13,7 +13,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<icon src="img/most.jpeg"/>
 	
-	<icon src="img/ldpi.png" gap:platform="andoid" gap:qualifier="ldpi" />
+	<icon src="img/most.jpeg" gap:platform="andoid" gap:qualifier="ldpi" />
 	
 	<platform name="android" />
 	<plugin name="cordova-plugin-device" spec="~1.1.4" />
