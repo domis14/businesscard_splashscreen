@@ -16,15 +16,8 @@
 <gap:splash gap:density="hdpi" gap:platform="android" src="img/hdpi.png" />
 <gap:splash gap:density="xhdpi" gap:platform="android" src="img/xhdpi.png" />
 
-<icon src="img/ldpi.png" platform="android" qualifier="ldpi" />
-<icon src="img/mdpi.png" platform="android" qualifier="mdpi" />
-<icon src="img/hdpi.png" platform="android" qualifier="hdpi" />
-<icon src="img/xhdpi.png" platform="android" qualifier="xhdpi" />
-<icon src="img/xhdpi.png" platform="android" qualifier="xxhdpi" />
-<icon src="img/xhdpi.png" platform="android" qualifier="fr-xxhdpi" />
 
 
-<icon src="img/ldpi.png" platform="android" qualifier="ldpi" />
 <icon src="img/ldpi.png" />
 	
 	
