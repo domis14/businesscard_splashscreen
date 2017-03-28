@@ -9,11 +9,14 @@
     <author email="dominik.adamski@interia.pl">
 		Dominik Adamski
 	</author>
+	<platform name="android" />
 	
 <plugin name="cordova-plugin-splashscreen" spec="~4.0.2" />
 <splash src="img/ldpi.png" />
-
-
 <icon src="img/ldpi.png" />
+
+
+	
+	
 
 </widget>
