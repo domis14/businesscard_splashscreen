@@ -9,7 +9,8 @@
     <author email="dominik.adamski@interia.pl">
 		Dominik Adamski
 	</author>
-
+	
+<plugin name="cordova-plugin-splashscreen" spec="~4.0.2" />
 <gap:splash gap:density="ldpi" gap:platform="android" src="img/ldpi.png" />
 <gap:splash gap:density="mdpi" gap:platform="android" src="img/mdpi.png" />
 <gap:splash gap:density="hdpi" gap:platform="android" src="img/hdpi.png" />
