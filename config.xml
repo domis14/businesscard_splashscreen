@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "businesscard"
+		id          = "businesscard spalshscreen"
         version     = "1.0.0" >
 	
-    <name>Business card</name>
+    <name>Business card splashscreen</name>
     <description>Business card</description>
     <author email="dominik.adamski@interia.pl">
 		Dominik Adamski
@@ -15,6 +15,8 @@
 <gap:splash gap:density="mdpi" gap:platform="android" src="img/mdpi.png" />
 <gap:splash gap:density="hdpi" gap:platform="android" src="img/hdpi.png" />
 <gap:splash gap:density="xhdpi" gap:platform="android" src="img/xhdpi.png" />
+<icon src="img/ldpi.png" platform="android" qualifier="ldpi" />
+<icon src="img/icon.png" />
 	
 	
 	<platform name="android" />
